@@ -1,18 +1,17 @@
 # FlySystem
 PocketMine-MP plugin that enables survival flight in specific worlds.
 
+## Configuration
+
+```yaml
+enabled-worlds:
+  - Lobby
 ## Commands
 
 | Command | Description          | Permission          |
 | ------- | -------------------- | ------------------- |
 | `/fly`  | Toggles flight mode. | `fly.command` |
 | `/fly`  | Bypass. | `fly.bypass` |
-
-## Configuration
-
-```yaml
-enabled-worlds:
-  - Lobby
 
 ## Installation
 
