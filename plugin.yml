@@ -1,0 +1,18 @@
+name: FlySystem
+version: 1.0.1
+main: Houpq\FlySystem\Main
+api: 5.0.0
+author: Houpq
+
+commands:
+  fly:
+    description: Activar/Desactivar
+    usage: "/fly"
+    permission: fly.command
+
+permissions:
+  fly.command:
+    default: op
+
+  fly.bypass:
+    default: op
