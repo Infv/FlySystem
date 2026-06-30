@@ -3,11 +3,6 @@ PocketMine-MP plugin that enables survival flight in specific worlds.
 
 
 ```yaml
-
-CONFIGURATION:
-enabled-worlds:
-  - Lobby
-
 COMMANDS:
 
 | Command | Description          | Permission          |
