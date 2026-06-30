@@ -8,10 +8,7 @@ COMMANDS & PERMISSIONS:
 | Command | Description          | Permission          |
 | ------- | -------------------- | ------------------- |
 | /fly    | Toggles flight mode. | fly.command         |
-Bypass: fly.bypass
-default: op
-
-PERMISSIONS:
+| Bypass  | Bypass mode          | fly.bypass          |
 
 INSTALLATION:
 
