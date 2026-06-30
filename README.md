@@ -3,11 +3,16 @@ PocketMine-MP plugin that enables survival flight in specific worlds.
 
 
 ```yaml
-COMMANDS:
+COMMANDS & PERMISSIONS:
 
 | Command | Description          | Permission          |
 | ------- | -------------------- | ------------------- |
 | /fly    | Toggles flight mode. | fly.command         |
+
+-# Bypass: fly.bypass
+default: op
+
+PERMISSIONS:
 
 INSTALLATION:
 
