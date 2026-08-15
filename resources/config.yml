@@ -1,0 +1,9 @@
+allowed-worlds:
+  - Lobby
+
+messages:
+  enabled: "§aModo vuelo activado."
+  disabled: "§cModo vuelo desactivado."
+  world-not-allowed: "§cNo puedes usar /fly en este mundo."
+  no-permission: "§cNo tienes permiso para usar este comando."
+  auto-disabled: "§cEl vuelo fue desactivado porque este mundo no lo permite."
