@@ -2,7 +2,7 @@ name: FlySystem
 version: 1.0.1
 main: Houpq\FlySystem\Main
 api: 5.0.0
-author: VX Team @Houpq
+author: PrimeST @WestersMC
 
 commands:
   fly:
